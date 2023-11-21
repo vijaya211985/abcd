@@ -1,4 +1,4 @@
-import random, time
+
 import RPi.GPIO as GPIO
 
 RUNNING = True
